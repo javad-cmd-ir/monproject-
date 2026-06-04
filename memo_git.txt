@@ -1,0 +1,11 @@
+# Mémo Git – Itération 1
+
+git init        → Initialise un dépôt Git
+git status      → Affiche l’état du dépôt
+git add .       → Ajoute tous les fichiers au suivi
+git commit -m "message" → Enregistre les modifications
+git log --oneline → Affiche l’historique des commits
+git branch -M main → Renomme la branche principale
+git remote add origin git@github.com:javad-cmd-ir/monproject-.git → Connecte à GitHub
+git push -u origin main → Envoie le code sur GitHub
+
